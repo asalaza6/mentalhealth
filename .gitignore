@@ -1,5 +1,29 @@
-mentalhealth/_tests_/
-mentalhealth/android/
-mentalhealth/ios/
+# OSX
+#
+mentalhealth/.DS_Store
+
+# Xcode
+#
+mentalhealth/build/
+mentalhealth/*.pbxuser
+mentalhealth/!default.pbxuser
+mentalhealth/*.mode1v3
+mentalhealth/!default.mode1v3
+mentalhealth/*.mode2v3
+mentalhealth/!default.mode2v3
+mentalhealth/*.perspectivev3
+mentalhealth/!default.perspectivev3
+mentalhealth/xcuserdata
+mentalhealth/.xccheckout
+mentalhealth/*.moved-aside
+mentalhealth/DerivedData
+mentalhealth/*.hmap
+mentalhealth/*.ipa
+mentalhealth/*.xcuserstate
+
+# node.js
+#
 mentalhealth/node_modules/
+mentalhealth/npm-debug.log
+
 server/node_modules/
