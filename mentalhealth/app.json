@@ -1,0 +1,10 @@
+{
+  "name": "mentalhealth",
+  "displayName": "mentalhealth",
+  "expo":{
+    "name":"mentalhealth",
+    "slug":"mentalhealth",
+    "version":"1.0.0",
+    "sdkVersion":"38.0.0"
+  }
+}

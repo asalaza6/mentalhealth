@@ -1,0 +1,5 @@
+mentalhealth/_tests_/
+mentalhealth/android/
+mentalhealth/ios/
+mentalhealth/node_modules/
+server/node_modules/
